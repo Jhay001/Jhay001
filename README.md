@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Jhay001
 - About me: https://about.me/jibrilyahayajibril
 - 👀 I’m interested in Data Science and Analytics
-- 🌱 I’m currently learning more Data Science techniques
-- 💞️ I’m looking to collaborate on Data Science and Analytics projects
+- 🌱 I’m currently learning more Data Analytics techniques
+- 💞️ I’m looking to collaborate on Data Analytics projects
 - 📫 How to reach me: 
 
     E-mail: jibrilyahayajibril@gmail.com
